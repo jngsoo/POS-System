@@ -1,0 +1,1 @@
+([('POS2', '/Users/jngsoo/Desktop/POS_code/codes/dist/POS2', 'EXECUTABLE')],)
