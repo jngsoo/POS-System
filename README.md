@@ -6,4 +6,4 @@
 
 
 
-<iframe width="800" height="480" src="https://www.youtube.com/embed/ISx-_NsHTYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=ISx-_NsHTYA"></iframe>
